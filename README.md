@@ -1,2 +1,2 @@
-# blok
-shaxsiy blok
+# blog
+shaxsiy blog
